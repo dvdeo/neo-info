@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Welcome to my site</h1>
-    <p>This site is developing. Please come back again!</p>
+    <p>This site is developing. Please come back later!</p>
   </div>
 </template>
 
